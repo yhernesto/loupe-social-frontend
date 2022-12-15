@@ -1,4 +1,5 @@
-# app2-frontend-trends
+# Loupe Social
+See [Project Reference](https://sites.google.com/view/trending-analyzer/home). page with all information about this project
 
 ## Project setup
 ```
