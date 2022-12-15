@@ -98,7 +98,7 @@ your github user should be added to Appeiron-tech organization, if not please co
     ```bash
     #########################
     #DATABASE
-    MONGO_DB_TEST='mongodb+srv://appeiron-dev:QkI1yDwHsfsvBIzV@trendsanalyser.17ftj.mongodb.net/LoupeSocial-test?retryWrites=true&w=majority'
+    MONGO_DB_TEST=''
     
     #########################
     #GOOGLE CLOUD STORAGE
@@ -109,7 +109,7 @@ your github user should be added to Appeiron-tech organization, if not please co
     
     GCS_PROJECT_ID='sentimen-analyzer'
     GCS_STORAGE_MEDIA_BUCKET='users_clients'
-    GCS_CLIENT_EMAIL='trending-analyzer@sentimen-analyzer.iam.gserviceaccount.com'
+    GCS_CLIENT_EMAIL=''
     
     #########################
     #JWT
@@ -124,12 +124,12 @@ your github user should be added to Appeiron-tech organization, if not please co
     #----- Instagram  ------#
     # PSADBRO 
     PSADBRO_API_ENDPOINT='https://instagram47.p.rapidapi.com'
-    PSADBRO_API_KEY='02bda58a39mshc7d9399d9119827p1ebd5fjsnd949f92edcf8'
+    PSADBRO_API_KEY=''
     PSADBRO_API_HOST='instagram47.p.rapidapi.com'
     
     # KIRTAN
     KIRTAN_API_ENDPOINT='https://instagram-bulk-profile-scrapper.p.rapidapi.com'
-    KIRTAN_API_KEY='02bda58a39mshc7d9399d9119827p1ebd5fjsnd949f92edcf8'
+    KIRTAN_API_KEY=''
     KIRTAN_API_HOST='instagram-bulk-profile-scrapper.p.rapidapi.com'
     ```
     
