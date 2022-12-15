@@ -1,0 +1,12 @@
+version: "0.1"
+services:
+  web:
+    image: appeiron/loupe-social-frontend
+    ports:
+      - "8081:80"
+    links:
+    - "backend"
+  backend:
+    image: appeiron/loupe-social-backend
+    ports:
+      - "3000:3000"

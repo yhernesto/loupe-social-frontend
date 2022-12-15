@@ -1,0 +1,1 @@
+Interfaces returned from the remote service (BackEnd)
